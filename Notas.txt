@@ -1,0 +1,2 @@
+Crear un spawner de ola de jefes
+Modificar el spawnManager para que maneje dos spawners, uno de olas normales y uno de olas de jefe
